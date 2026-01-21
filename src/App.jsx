@@ -8,18 +8,18 @@ import {
 } from 'lucide-react';
 import "./App.css"
 
-import heroBg from './assets/Beef Burger.jpg';
-import pizzaImg from './assets/Cheese Pizza.jpg';
-import burgerImg from './assets/Beef Burger.jpg';
+import heroBg from './assets/beef-brgur.jpg';
+import pizzaImg from './assets/cheespizza.jpg';
+import burgerImg from './assets/beef-brgur.jpg';
 import biryaniImg from './assets/Biryani.jpg';
-import saladImg from './assets/r salad.jpg';
+import saladImg from './assets/salad.jpg';
 import pastaImg from './assets/Pasta.jpg';
 import wingsImg from './assets/Wings.jpg';
-import cakeImg from './assets/Chocolate Cake.jpg';
-import juiceImg from './assets/Cold Coffee.jpg';
-import salmonImg from './assets/Grilled Salmon.jpg';
-import wrapImg from './assets/veggie Wrap.jpg';
-import icecreamImg from './assets/ice Cream.jpg';
+import cakeImg from './assets/cake.jpg';
+import juiceImg from './assets/cold-coffee.jpg';
+import salmonImg from './assets/grilled.jpg';
+import wrapImg from './assets/wrap.jpg';
+import icecreamImg from './assets/icecream.jpg';
 import chef1Img from './assets/chef1.jpg';
 import chef2Img from './assets/chef2.jpg';
 import chef3Img from './assets/chef3.jpg';
